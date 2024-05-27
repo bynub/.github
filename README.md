@@ -1,5 +1,5 @@
 # 🪁 .github
-> [!INFO]
+> [!NOTE]
 > Config files for the org
 
 ## 📁 Profile
