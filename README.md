@@ -3,4 +3,4 @@
 > Config files for the org
 
 ## 📁 Profile
-> Edit org profile by modifying [`./profile/README.md`](./profile/README.md)
+> Org readme at [`./profile/README.md`](./profile/README.md)
